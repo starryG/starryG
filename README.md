@@ -1,6 +1,6 @@
 - 👋 I’m @starryG
 - 🌐 https://starrystar.top
-- 📫 gengweiheadmaster@gmail.com
+- 📫 gengwei@starrystar.top
 
 <!---
 starryG/starryG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
